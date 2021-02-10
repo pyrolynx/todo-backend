@@ -1,0 +1,4 @@
+*.py[cyo]
+.venv/
+__pycache__/
+*.sqlite3
